@@ -1,5 +1,5 @@
 package com.stackroute;
-//creating class Student with name,roll_no,phone_no,address and method to display the details.
+//creating class Student with roll_no,phone_no,address and method to display the details.
 class Student
         {
             int roll_no;
