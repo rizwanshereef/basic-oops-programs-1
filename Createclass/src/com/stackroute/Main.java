@@ -1,11 +1,11 @@
 package com.stackroute;
 
-public class Main {
-
-    public static class Student{
+class  Student{
         String name;
         int roll_no;
-    }
+}
+public class Main {
+
     public static void main(String[] args) {
 	Student s = new Student();
 	s.name= "John";
